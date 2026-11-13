@@ -1,1 +1,1 @@
-{ "name": "light-demo-dark", "version": "1.0.0", "private": true, "scripts": { "test": "node --test" } }
+{ "name": "light-demo-dark", "version": "1.0.0", "private": true, "scripts": { "test": "node --test" },"funding":{"type":"github","url":"https://github.com/sponsors/fitzyracing1"}}
